@@ -14,7 +14,7 @@
 - 📱 Currently working on **Android app development**
 - 🔭 Learning **Dart** and the **Flutter** framework/API
 - 🎨 Also dabble in design with **Figma** and **Canva**
-- 📫 Reach me at **b.nikkk.chd@gmail.com**
+- 📫 Reach me at **b.nikk.chd@gmail.com**
 
 ---
 
